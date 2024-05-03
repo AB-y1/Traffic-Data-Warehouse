@@ -1,0 +1,4 @@
+.env
+/logs
+/notebooks.ipynb/track_data
+/notebooks.ipynb/trajectory_data
