@@ -1,4 +1,6 @@
 ﻿# numa_warehouse
+ 
+![Screenshot from 2024-07-28 14-26-57](https://github.com/user-attachments/assets/8c9e98c8-68b7-4228-9f90-db90aeb54d95)
 
 ## Project Overview
 ### Business Need:
